@@ -17,6 +17,8 @@ Step 3 : If any new state is found take it as current state and repeat step 2.
 Step 4 : Do repeat Step 2 and Step 3 until no new state present in DFA transition table. 
 
 Step 5 : Mark the states of DFA which contains final state of NFA as final states of DFA.
+
+
 # PROGRAM
 ```
 // C Program to illustrate how to convert e-nfa to DFA
